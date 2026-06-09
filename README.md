@@ -8,7 +8,7 @@ interaction designs.
 This was a group project (5 students) completed for the MSc Information
 Visualisation course at the University of Glasgow.
 
-**Live demo:** https://fouziasharkar.github.io/Crime-Data-Analysis-And-Visualisation-System/
+**Live demo:** [https://fouziasharkar.github.io/Crime-Data-Analysis-And-Visualisation-System/](https://fouziasharkar.github.io/Crime-Data-Analysis-And-Visualisation-System/dashboard.html)
 
 ---
 
