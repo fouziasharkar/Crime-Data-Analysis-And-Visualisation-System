@@ -44,9 +44,6 @@ brushing in one view updates the others.
 | **System B** | Individual point map + area summary | Year × month heatmap | Crime-description dot plot | Age groups and sex bars |
 | **System C** | Point map with filter controls | Area chart | Ranked bars with group filter | Age × crime-group heatmap and share bars |
 
-All three dashboards are self-contained HTML files. The data is embedded and the
-required libraries load from a CDN, so they run in any browser with no setup.
-
 ## Generalised selection (System B)
 
 System B includes a generalised-selection feature. The dataset has a natural
