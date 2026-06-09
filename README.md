@@ -44,6 +44,7 @@ brushing in one view updates the others.
 | **System B** | Individual point map + area summary | Year × month heatmap | Crime-description dot plot | Age groups and sex bars |
 | **System C** | Point map with filter controls | Area chart | Ranked bars with group filter | Age × crime-group heatmap and share bars |
 
+
 ## Generalised selection (System B)
 
 System B includes a generalised-selection feature. The dataset has a natural
